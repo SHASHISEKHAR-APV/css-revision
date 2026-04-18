@@ -7,7 +7,7 @@
 }
 
 #navbar {
-    background: linear-gradient(to right, #1f1c2c, #928dab);
+    background: linear-gradient(to right, rgb(94, 11, 11), #928dab);
     padding: 15px 0;
 }
 
